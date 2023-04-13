@@ -1,1 +1,1 @@
-0x0A-python-inheritance0;276;0c
+0x0A-python-inheritance
